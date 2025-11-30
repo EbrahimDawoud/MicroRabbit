@@ -1,4 +1,7 @@
 <Solution>
-  <Project Path="Consumer/Consumer.csproj" />
-  <Project Path="ProducerConsumerRabbitMQ/Producer.csproj" />
+  <Folder Name="/Domain/" />
+  <Folder Name="/Infra.Bus/" />
+  <Folder Name="/Infra.IoC/" />
+  <Folder Name="/Microservices/" />
+  <Folder Name="/Presentation/" />
 </Solution>
